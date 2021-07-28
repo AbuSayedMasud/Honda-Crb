@@ -1,0 +1,19 @@
+/* google fonts  start*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+/* google fonts end */
+
+/* header-area start */
+.header-area
+{
+    background-color:#264653;
+}
+.text-color
+{
+    color: #E0E0E0;
+}
+.btn-honda-primary
+{
+    background: #E76F51;
+}
+
+/* header-area end */
