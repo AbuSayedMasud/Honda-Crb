@@ -17,3 +17,16 @@
 }
 
 /* header-area end */
+/* main */
+.text-honda-danger{
+    color: #E76F51;
+}
+.gray-scale-1
+{
+    filter: grayscale(85%);
+}
+.gray-scale-2
+{
+    filter: grayscale(100%);
+}
+
