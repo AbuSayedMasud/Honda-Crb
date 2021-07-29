@@ -14,7 +14,14 @@
 .btn-honda-primary
 {
     background: #E76F51;
+    
 }
+.btn-honda-primary:hover
+{
+transform: scale(1.1);
+transition: transform 1s ease-in-out .02s;
+} 
+
 
 /* header-area end */
 
