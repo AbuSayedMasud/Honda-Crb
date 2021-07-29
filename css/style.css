@@ -17,7 +17,10 @@
 }
 
 /* header-area end */
+
 /* main */
+
+/* featurer-area start*/
 .text-honda-danger{
     color: #E76F51;
 }
@@ -30,3 +33,39 @@
     filter: grayscale(100%);
 }
 
+/* featurer-area end*/
+
+/* client-area start */
+.client-text
+{
+    color: #0A0826;
+}
+.card-image
+{
+    width: 177px;
+    height: 177px;
+    border-radius: 50%;
+}
+.star-fillup,
+.star-unfillup
+{
+    color:#E77C40
+}
+
+.text-honda-primary
+{
+    color:#6C6C6C;
+}
+/* client-area end */
+
+.accordion-honda-item
+
+{
+    border:none !important;
+    margin-bottom: 20px;
+    
+}
+
+
+
+/* main end */
