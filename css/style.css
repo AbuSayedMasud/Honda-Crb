@@ -65,6 +65,8 @@ transition: transform 1s ease-in-out .02s;
 }
 /* client-area end */
 
+/* question-area start */
+
 .accordion-honda-item
 
 {
@@ -72,6 +74,8 @@ transition: transform 1s ease-in-out .02s;
     margin-bottom: 20px;
     
 }
+/* question-area end */
+
 
 
 
